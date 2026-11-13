@@ -1,0 +1,1 @@
+# IPC---FIFOs-Named-Pipes-Full-Duplex-
